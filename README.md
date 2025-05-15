@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zakwan-ten.vercel.app/](https://zakwan-ten.vercel.app/)
 
-- 📫 How to reach me **zakwanmd162gmail.com**
+- 📫 How to reach me **zakwanmd16gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
